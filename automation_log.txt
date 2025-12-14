@@ -7,3 +7,9 @@ Git command commit -m Add solution for Reverse Pairs - 2025-12-14 14:40:06 succe
  create mode 100644 dsa_automation.py
  create mode 100644 run_dsa_bot.bat
 Git command push origin main success: 
+Copying Modular Exponentiation to c:\Users\Acer\Downloads\DSA-Practice\Modular Exponentiation.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Modular Exponentiation - 2025-12-14 21:02:10 success: [main 63d062a] Add solution for Modular Exponentiation - 2025-12-14 21:02:10
+ 3 files changed, 28 insertions(+), 1 deletion(-)
+ create mode 100644 Modular Exponentiation.cpp
+Git command push origin main success: 
