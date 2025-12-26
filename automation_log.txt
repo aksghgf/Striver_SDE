@@ -121,3 +121,9 @@ Git command commit -m Add solution for Maximum In Sliding Windows Of Size K - 20
  2 files changed, 24 insertions(+)
  create mode 100644 Maximum In Sliding Windows Of Size K.cpp
 Git command push origin main success: 
+Copying Missing and repeating numbers to c:\Users\Acer\Downloads\DSA-Practice\Missing and repeating numbers.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Missing and repeating numbers - 2025-12-26 02:43:22 success: [main 41e5383] Add solution for Missing and repeating numbers - 2025-12-26 02:43:22
+ 2 files changed, 31 insertions(+)
+ create mode 100644 Missing and repeating numbers.cpp
+Git command push origin main success: 
