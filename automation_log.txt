@@ -127,3 +127,9 @@ Git command commit -m Add solution for Missing and repeating numbers - 2025-12-2
  2 files changed, 31 insertions(+)
  create mode 100644 Missing and repeating numbers.cpp
 Git command push origin main success: 
+Copying Pair Sum to c:\Users\Acer\Downloads\DSA-Practice\Pair Sum.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Pair Sum - 2025-12-26 11:19:43 success: [main cc84dc6] Add solution for Pair Sum - 2025-12-26 11:19:43
+ 2 files changed, 36 insertions(+)
+ create mode 100644 Pair Sum.cpp
+Git command push origin main failed: fatal: unable to access 'https://github.com/ujjwaltiwari01/DSA-Practice.git/': Could not resolve host: github.com
