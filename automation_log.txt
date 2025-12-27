@@ -145,3 +145,9 @@ Git command commit -m Add solution for Flatten A LinkedList - 2025-12-27 12:00:0
  2 files changed, 69 insertions(+)
  create mode 100644 Flatten A LinkedList.cpp
 Git command push origin main failed: fatal: unable to access 'https://github.com/ujjwaltiwari01/DSA-Practice.git/': Could not resolve host: github.com
+Copying Floor in BST to c:\Users\Acer\Downloads\DSA-Practice\Floor in BST.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Floor in BST - 2025-12-27 17:00:16 success: [main cba2e20] Add solution for Floor in BST - 2025-12-27 17:00:16
+ 2 files changed, 43 insertions(+)
+ create mode 100644 Floor in BST.cpp
+Git command push origin main success: 
