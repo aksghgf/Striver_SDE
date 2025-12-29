@@ -157,3 +157,9 @@ Git command commit -m Add solution for LFU Cache - 2025-12-27 21:27:48 success: 
  2 files changed, 133 insertions(+)
  create mode 100644 LFU Cache.cpp
 Git command push origin main success: 
+Copying The Celebrity Problem to c:\Users\Acer\Downloads\DSA-Practice\The Celebrity Problem.cpp...
+Git command add . success: 
+Git command commit -m Add solution for The Celebrity Problem - 2025-12-27 22:00:03 success: [main f4bba63] Add solution for The Celebrity Problem - 2025-12-27 22:00:03
+ 2 files changed, 44 insertions(+)
+ create mode 100644 The Celebrity Problem.cpp
+Git command push origin main success: 
