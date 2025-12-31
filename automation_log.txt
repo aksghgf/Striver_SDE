@@ -181,4 +181,9 @@ Git command commit -m Add solution for Implement Atoi Function - 2025-12-29 21:1
  2 files changed, 24 insertions(+)
  create mode 100644 Implement Atoi Function.cpp
 Git command push origin main failed: fatal: unable to access 'https://github.com/ujjwaltiwari01/DSA-Practice.git/': Could not resolve host: github.com
-^C
+^CCopying Maximum XOR of Two Numbers in an Array to c:\Users\Acer\Downloads\DSA-Practice\Maximum XOR of Two Numbers in an Array.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Maximum XOR of Two Numbers in an Array - 2025-12-31 16:00:03 success: [main 8726baa] Add solution for Maximum XOR of Two Numbers in an Array - 2025-12-31 16:00:03
+ 2 files changed, 22 insertions(+)
+ create mode 100644 Maximum XOR of Two Numbers in an Array.cpp
+Git command push origin main failed: fatal: unable to access 'https://github.com/ujjwaltiwari01/DSA-Practice.git/': Could not resolve host: github.com
