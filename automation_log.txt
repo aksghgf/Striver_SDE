@@ -187,3 +187,9 @@ Git command commit -m Add solution for Maximum XOR of Two Numbers in an Array - 
  2 files changed, 22 insertions(+)
  create mode 100644 Maximum XOR of Two Numbers in an Array.cpp
 Git command push origin main failed: fatal: unable to access 'https://github.com/ujjwaltiwari01/DSA-Practice.git/': Could not resolve host: github.com
+Copying Kruskal’s Minimum Spanning Tree Algorithm to c:\Users\Acer\Downloads\DSA-Practice\Kruskal’s Minimum Spanning Tree Algorithm.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Kruskal’s Minimum Spanning Tree Algorithm - 2025-12-31 19:47:51 success: [main 38c2c92] Add solution for Kruskalâ€™s Minimum Spanning Tree Algorithm - 2025-12-31 19:47:51
+ 2 files changed, 67 insertions(+), 1 deletion(-)
+ create mode 100644 "Kruskal\342\200\231s Minimum Spanning Tree Algorithm.cpp"
+Git command push origin main success: 
