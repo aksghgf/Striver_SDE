@@ -1,3 +1,3 @@
 @echo off
-cd /d "c:\Users\Acer\Downloads\DSA-Practice"
+cd /d "%~dp0"
 python dsa_automation.py >> automation_log.txt 2>&1

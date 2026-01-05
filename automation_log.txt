@@ -205,3 +205,9 @@ Git command commit -m Add solution for Find Duplicate in Array - 2026-01-05 16:0
  2 files changed, 21 insertions(+)
  create mode 100644 Find Duplicate in Array.cpp
 Git command push origin main failed: fatal: unable to access 'https://github.com/ujjwaltiwari01/DSA-Practice.git/': Could not resolve host: github.com
+Copying Reverse Linked List to c:\Users\Acer\Downloads\DSA-Practice\Reverse Linked List.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Reverse Linked List - 2026-01-05 18:00:02 success: [main 0976863] Add solution for Reverse Linked List - 2026-01-05 18:00:02
+ 2 files changed, 43 insertions(+)
+ create mode 100644 Reverse Linked List.cpp
+Git command push origin main success: 

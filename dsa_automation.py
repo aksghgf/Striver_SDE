@@ -1,12 +1,15 @@
-﻿import os
+import os
 import shutil
 import subprocess
 import random
 from datetime import datetime
 
 # Configuration
-SOURCE_DIR = r"c:\Users\Acer\Downloads\Striver-s-SDE-Sheet-Solution-main\Striver-s-SDE-Sheet-Solution-main"
-REPO_DIR = r"c:\Users\Acer\Downloads\DSA-Practice"
+# Auto-detect repository directory (where this script is located)
+REPO_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# You may need to update this path to your actual source directory
+SOURCE_DIR = r"C:\Users\kumar\OneDrive\Desktop\Striver-s-SDE-Sheet-Solution-main (2)\Striver-s-SDE-Sheet-Solution-main\Striver-s-SDE-Sheet-Solution-main"
 GIT_REMOTE = "https://github.com/ujjwaltiwari01/DSA-Practice.git"
 
 def git_command(args, cwd=REPO_DIR):
