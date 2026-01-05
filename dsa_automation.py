@@ -10,7 +10,7 @@ REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # You may need to update this path to your actual source directory
 SOURCE_DIR = r"C:\Users\kumar\OneDrive\Desktop\Striver-s-SDE-Sheet-Solution-main (2)\Striver-s-SDE-Sheet-Solution-main\Striver-s-SDE-Sheet-Solution-main"
-GIT_REMOTE = "https://github.com/ujjwaltiwari01/DSA-Practice.git"
+GIT_REMOTE = "https://github.com/aksghgf/Striver_SDE.git"
 
 def git_command(args, cwd=REPO_DIR):
     try:
