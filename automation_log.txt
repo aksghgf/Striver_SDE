@@ -199,3 +199,9 @@ Git command commit -m Add solution for Copy List with Random Pointer - 2025-12-3
  2 files changed, 119 insertions(+)
  create mode 100644 Copy List with Random Pointer.cpp
 Git command push origin main success: 
+Copying Find Duplicate in Array to c:\Users\Acer\Downloads\DSA-Practice\Find Duplicate in Array.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Find Duplicate in Array - 2026-01-05 16:00:03 success: [main e6a89f6] Add solution for Find Duplicate in Array - 2026-01-05 16:00:03
+ 2 files changed, 21 insertions(+)
+ create mode 100644 Find Duplicate in Array.cpp
+Git command push origin main failed: fatal: unable to access 'https://github.com/ujjwaltiwari01/DSA-Practice.git/': Could not resolve host: github.com
