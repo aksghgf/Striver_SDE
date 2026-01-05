@@ -193,3 +193,9 @@ Git command commit -m Add solution for Kruskal’s Minimum Spanning Tree Algorithm
  2 files changed, 67 insertions(+), 1 deletion(-)
  create mode 100644 "Kruskal\342\200\231s Minimum Spanning Tree Algorithm.cpp"
 Git command push origin main success: 
+Copying Copy List with Random Pointer to c:\Users\Acer\Downloads\DSA-Practice\Copy List with Random Pointer.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Copy List with Random Pointer - 2025-12-31 20:00:02 success: [main 7a7e073] Add solution for Copy List with Random Pointer - 2025-12-31 20:00:02
+ 2 files changed, 119 insertions(+)
+ create mode 100644 Copy List with Random Pointer.cpp
+Git command push origin main success: 
