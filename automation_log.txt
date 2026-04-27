@@ -241,3 +241,9 @@ Git command commit -m Add solution for Matrix Chain Multiplication - 2026-03-06 
  2 files changed, 27 insertions(+)
  create mode 100644 Matrix Chain Multiplication.cpp
 Git command push origin main success: 
+Copying Count Inversions to c:\Users\kumar\OneDrive\Desktop\DSA-Practice\DSA-Practice\Count Inversions.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Count Inversions - 2026-04-24 22:12:29 success: [main 22cf60d] Add solution for Count Inversions - 2026-04-24 22:12:29
+ 1 file changed, 43 insertions(+)
+ create mode 100644 Count Inversions.cpp
+Git command push origin main failed: fatal: unable to access 'https://github.com/aksghgf/Striver_SDE.git/': Could not resolve host: github.com
