@@ -247,3 +247,9 @@ Git command commit -m Add solution for Count Inversions - 2026-04-24 22:12:29 su
  1 file changed, 43 insertions(+)
  create mode 100644 Count Inversions.cpp
 Git command push origin main failed: fatal: unable to access 'https://github.com/aksghgf/Striver_SDE.git/': Could not resolve host: github.com
+Copying Is Height Balanced Binary Tree to c:\Users\kumar\OneDrive\Desktop\DSA-Practice\DSA-Practice\Is Height Balanced Binary Tree.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Is Height Balanced Binary Tree - 2026-04-28 11:21:06 success: [main 432cb15] Add solution for Is Height Balanced Binary Tree - 2026-04-28 11:21:06
+ 1 file changed, 38 insertions(+)
+ create mode 100644 Is Height Balanced Binary Tree.cpp
+Git command push origin main failed: fatal: unable to access 'https://github.com/aksghgf/Striver_SDE.git/': Could not resolve host: github.com
