@@ -253,3 +253,9 @@ Git command commit -m Add solution for Is Height Balanced Binary Tree - 2026-04-
  1 file changed, 38 insertions(+)
  create mode 100644 Is Height Balanced Binary Tree.cpp
 Git command push origin main failed: fatal: unable to access 'https://github.com/aksghgf/Striver_SDE.git/': Could not resolve host: github.com
+Copying Count Subarrays with Given XOR to c:\Users\kumar\OneDrive\Desktop\DSA-Practice\DSA-Practice\Count Subarrays with Given XOR.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Count Subarrays with Given XOR - 2026-04-29 10:03:00 success: [main 64d7139] Add solution for Count Subarrays with Given XOR - 2026-04-29 10:03:00
+ 2 files changed, 27 insertions(+)
+ create mode 100644 Count Subarrays with Given XOR.cpp
+Git command push origin main failed: fatal: unable to access 'https://github.com/aksghgf/Striver_SDE.git/': Could not resolve host: github.com
