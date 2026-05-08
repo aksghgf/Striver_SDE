@@ -61,6 +61,11 @@ def main():
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         commit_msg = f"Add solution for {file_to_push} - {timestamp}"
         if git_command(['commit', '-m', commit_msg]):
+            # Ensure we push to the configured GIT_REMOTE URL (if set).
+            # This will update the local 'origin' to point at GIT_REMOTE,
+            # then push the current branch to origin.
+            if GIT_REMOTE:
+                git_command(['remote', 'set-url', 'origin', GIT_REMOTE])
             git_command(['push', 'origin', 'main'])
 
 if __name__ == "__main__":
