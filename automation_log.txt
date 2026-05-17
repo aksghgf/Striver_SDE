@@ -286,3 +286,10 @@ Git command commit -m Add solution for Flood Fill Algorithm - 2026-05-13 16:32:2
  create mode 100644 Flood Fill Algorithm.cpp
 Git command remote set-url origin https://github.com/aksghgf/Striver_SDE.git success: 
 Git command push origin main failed: fatal: unable to access 'https://github.com/aksghgf/Striver_SDE.git/': Could not resolve host: github.com
+Copying Construct BST from Preorder Traversal to c:\Users\kumar\OneDrive\Desktop\DSA-Practice\DSA-Practice\Construct BST from Preorder Traversal.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Construct BST from Preorder Traversal - 2026-05-16 12:04:16 success: [main 4d23abd] Add solution for Construct BST from Preorder Traversal - 2026-05-16 12:04:16
+ 2 files changed, 56 insertions(+)
+ create mode 100644 Construct BST from Preorder Traversal.cpp
+Git command remote set-url origin https://github.com/aksghgf/Striver_SDE.git success: 
+Git command push origin main success: 
