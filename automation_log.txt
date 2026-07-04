@@ -293,3 +293,10 @@ Git command commit -m Add solution for Construct BST from Preorder Traversal - 2
  create mode 100644 Construct BST from Preorder Traversal.cpp
 Git command remote set-url origin https://github.com/aksghgf/Striver_SDE.git success: 
 Git command push origin main success: 
+Copying Median of two sorted arrays to c:\Users\kumar\OneDrive\Desktop\DSA-Practice\DSA-Practice\Median of two sorted arrays.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Median of two sorted arrays - 2026-06-04 11:27:53 success: [main acd36ed] Add solution for Median of two sorted arrays - 2026-06-04 11:27:53
+ 1 file changed, 56 insertions(+)
+ create mode 100644 Median of two sorted arrays.cpp
+Git command remote set-url origin https://github.com/aksghgf/Striver_SDE.git success: 
+Git command push origin main failed: fatal: unable to access 'https://github.com/aksghgf/Striver_SDE.git/': Could not resolve host: github.com
